@@ -1,0 +1,19 @@
+groupe,membres,theme,fichier,lignes,colonnes
+1,Choukri mohamed-Lassine Savani,Ventes e-commerce,groupe_01_ventes_ecommerce.csv,2400,11
+2,Frindo Ilyass - Boushaba Zakariyae,Logistique & livraisons,groupe_02_logistique_livraisons.csv,1800,11
+3,Miguel KOUARA - SANOU Cedric A. Koudouss,Support client (tickets),groupe_03_support_client.csv,2600,12
+4,Yahya BAKHRI-Taha HOUSNI,Ressources humaines,groupe_04_ressources_humaines.csv,1300,13
+5,Imane BAKKOU - Malak KENDOUSSI,Consommation énergétique,groupe_05_energie_consommation.csv,2900,11
+6,Meryem DAHBI-Sara YAZZOUGH,Transport urbain,groupe_06_transport_urbain.csv,2200,13
+7,Ben hassane Ibrahim - labib mohamed amine,Santé — consultations,groupe_07_sante_consultations.csv,2100,13
+8,Amr Aouame - khalil lahouiti,Agriculture — rendements,groupe_08_agriculture_rendements.csv,1600,13
+9,Salma Samadi - Aya Mriss,Tourisme & hôtellerie,groupe_09_tourisme_hotellerie.csv,2000,14
+10,Hamza kharbouch-Mounir Zarrouk,Banque — transactions,groupe_10_banque_transactions.csv,3000,13
+11,OUMMAHYA Chouaib- EL GADI Mouad,Industrie — production,groupe_11_industrie_production.csv,1900,14
+12,Taj Mariem - Rania Amezout,Télécom — trafic réseau,groupe_12_telecom_reseau.csv,2500,13
+13,abdellah karrouchi - DJIERE DATOUNI,Immobilier — annonces,groupe_13_immobilier_annonces.csv,1700,15
+14,salma azhar aya dghoghi,Éducation — résultats,groupe_14_education_resultats.csv,2300,14
+15,BENLAMINE Mohammed - OUTALEB Anwar,Stations-service carburant,groupe_15_stations_carburant.csv,2700,12
+16,Jamal eddine BOUHOUCH - Reda ISSAMI,Entrepôt — mouvements stock,groupe_16_entrepot_stocks.csv,2050,14
+17,Marwa Hablouk - Ikram Moudnibi,Qualité de l'air,groupe_17_qualite_air.csv,2800,14
+18,BOUA Meriame-CHBANI Rania,Mobilité VTC,groupe_18_mobilite_vtc.csv,2450,16
